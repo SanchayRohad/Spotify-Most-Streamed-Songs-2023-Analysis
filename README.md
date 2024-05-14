@@ -62,7 +62,7 @@ Contributions to enhance the dashboard or address specific Revenue Analytics cha
 ## Links :-
 I've shared all the necessary files, datasets, and workbooks above. Please feel free to utilize these resources for your upcoming projects. If you find value in this project and dashboard, consider giving it a star or simply let me know. Your feedback would be greatly appreciated!
 
-[Connect with me on LinkedIn 🌐 :)](https://www.linkedin.com/in/jivanjot-kaur-993220262/)
+[Connect with me on LinkedIn 🌐 :)](https://www.linkedin.com/in/sanchayr/)
 
 
 
